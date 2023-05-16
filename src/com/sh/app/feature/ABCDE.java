@@ -5,5 +5,8 @@ public class ABCDE {
 	private void avc() {
 		
 	}
+	private void def() {
+		
+	}
 
 }
